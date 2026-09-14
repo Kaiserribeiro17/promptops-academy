@@ -8,7 +8,7 @@ As imagens servem para documentar a proposta visual da interface e facilitar a c
 
 O projeto completo de design está disponível no Figma:
 
-[ Acessar o projeto no Figma ]((https://www.figma.com/design/XAoUjgJc1W0zxhAOH42JLP/Sem-t%C3%ADtulo?node-id=0-1&t=hje9fB4KlAOYJcP9-1))
+[ Acessar o projeto no Figma ]([(https://www.figma.com/design/XAoUjgJc1W0zxhAOH42JLP/Sem-t%C3%ADtulo?node-id=0-1&t=hje9fB4KlAOYJcP9-1)])
 
 ## Estados da Interface
 
