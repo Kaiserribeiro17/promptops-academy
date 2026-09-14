@@ -13,7 +13,9 @@ As imagens servem para documentar a proposta visual da interface e facilitar a c
 
 ## Projeto no Figma
 
-O projeto completo de design está disponível no Figma:
+O projeto de design está sendo desenvolvido no Figma e ainda está em processo de finalização.
+
+O protótipo ainda não foi publicado como uma versão final, pois a parte de responsividade das telas ainda está em desenvolvimento.
 
 [ Acessar o projeto no Figma ](https://www.figma.com/design/XAoUjgJc1W0zxhAOH42JLP/Sem-t%C3%ADtulo?node-id=0-1&t=hje9fB4KlAOYJcP9-1)
 
@@ -77,11 +79,11 @@ Essa tela serve como referência principal para a estrutura da interface em comp
 
 ## Versão mobile
 
-Esta imagem apresenta uma adaptação da interface para dispositivos móveis.
+Esta imagem apresenta uma adaptação inicial da interface para dispositivos móveis.
 
 Ela demonstra como os principais elementos do sistema podem ser reorganizados em uma tela menor, mantendo as funcionalidades essenciais.
 
-A versão mobile serve como referência para o desenvolvimento responsivo do PromptOps Academy.
+A versão mobile serve como referência para o desenvolvimento responsivo do PromptOps Academy, que ainda está em desenvolvimento no protótipo.
 
 ## Finalidade das imagens
 
