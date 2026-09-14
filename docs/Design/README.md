@@ -4,6 +4,13 @@ Este arquivo apresenta as principais referências visuais desenvolvidas para o p
 
 As imagens servem para documentar a proposta visual da interface e facilitar a compreensão de como o sistema foi planejado antes e durante o desenvolvimento.
 
+## Informações do Design
+
+**Versão do design:** 1.0  
+**Data:** 14/09/2026  
+**Responsável pelo design:** Carlos  
+**Responsável pela validação:** [Kauã]
+
 ## Projeto no Figma
 
 O projeto completo de design está disponível no Figma:
@@ -70,11 +77,11 @@ Essa tela serve como referência principal para a estrutura da interface em comp
 
 ## Versão mobile
 
-Esta imagem apresenta a adaptação da interface para dispositivos móveis.
+Esta imagem apresenta uma adaptação da interface para dispositivos móveis.
 
-Ela demonstra como os principais elementos do sistema são reorganizados em uma tela menor, mantendo as funcionalidades essenciais.
+Ela demonstra como os principais elementos do sistema podem ser reorganizados em uma tela menor, mantendo as funcionalidades essenciais.
 
-A versão mobile serve como referência para o desenvolvimento responsivo do PromptOps Academy e para garantir que a interface continue utilizável em celulares.
+A versão mobile serve como referência para o desenvolvimento responsivo do PromptOps Academy.
 
 ## Finalidade das imagens
 
