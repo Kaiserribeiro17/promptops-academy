@@ -8,8 +8,8 @@ As imagens servem para documentar a proposta visual da interface e facilitar a c
 
 **Versão do design:** 1.0  
 **Data:** 14/09/2026  
-**Responsável pelo design:** Carlos  
-**Responsável pela validação:** [Kauã]
+**Responsável pelo design:** Kauã 
+**Responsável pela validação:** [Miguel]
 
 ## Projeto no Figma
 
