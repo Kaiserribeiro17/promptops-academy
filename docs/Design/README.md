@@ -96,3 +96,12 @@ Elas servem como referência para:
 - Padronização dos elementos visuais;
 - Verificação da interface durante os testes;
 - Comparação entre o design planejado e o sistema desenvolvido.
+
+## Critérios de Validação do Design
+
+- A interface deve manter um padrão visual entre as telas;
+- Os principais elementos devem estar organizados de forma clara;
+- Os estados de vazio, erro e sucesso devem estar representados;
+- O formulário/modal deve apresentar os campos necessários para o cadastro de prompts;
+- A interface deve possuir uma referência para desktop e mobile;
+- O design deve servir como base para a implementação da interface do sistema.
